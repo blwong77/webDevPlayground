@@ -1,0 +1,13 @@
+hr {
+    border: none;
+    border-top: dotted slategrey;
+    border-width: 5px;
+    width: 50px;
+  }
+
+  h1{
+    color: cadetblue;
+  }
+  h3 {
+    color: cadetblue;
+  }
